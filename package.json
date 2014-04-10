@@ -13,7 +13,12 @@
   "keywords": [
     "env",
     "parser",
-    "streams"
+    "streams",
+    "streaming",
+    ".env",
+    "ENV",
+    "process",
+    "process.env"
   ],
   "author": "Richard Walker <digitalsadhu@gmail.com>",
   "license": "MIT",
