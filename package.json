@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/digitalsadhu/env-parser/issues"
   },
-  "homepage": "https://github.com/digitalsadhu/env-parser"
+  "homepage": "https://github.com/digitalsadhu/env-parser",
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "devDependencies": {
+    "env-writer": "0.0.1"
+  }
 }
