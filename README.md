@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/digitalsadhu/env-parser.svg?branch=master)](https://travis-ci.org/digitalsadhu/env-parser)
+
 env-parser
 ==========
 
