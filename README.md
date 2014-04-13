@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/digitalsadhu/env-parser.svg?branch=master)](https://travis-ci.org/digitalsadhu/env-parser)
 
+[![NPM](https://nodei.co/npm/env-parser.png)](https://nodei.co/npm/env-parser/)
+
 env-parser
 ==========
 
