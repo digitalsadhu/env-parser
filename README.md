@@ -2,6 +2,8 @@
 
 [![NPM](https://nodei.co/npm/env-parser.png)](https://nodei.co/npm/env-parser/)
 
+[![Media Suite](http://mediasuite.co.nz/ms-badge.png)](http://mediasuite.co.nz)
+
 env-parser
 ==========
 
