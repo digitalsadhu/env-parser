@@ -1,6 +1,6 @@
 {
   "name": "env-parser",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Streaming environment variable parser",
   "main": "index.js",
   "scripts": {
