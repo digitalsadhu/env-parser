@@ -53,5 +53,14 @@ describe('env-parser module', function () {
       env.write('SECRET_KEY=\'1234asdf!@#$\'')
     })
 
+    it('should handle missing value', function (done) {
+      env = envParser().on('data', function (datum) {
+        expect(datum.key).to.equal('SECRET_KEY')
+        expect(datum.value).to.equal('')
+        done()
+      })
+      env.write('SECRET_KEY=')
+    })
+
   })
 })
