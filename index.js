@@ -10,6 +10,7 @@ var write = function write(data) {
   var envArr = data.split(/=(.+)?/)
 
   //clean up value, extracting from quotation if necessary
+  if (!envArr[1]) envArr[1] = '';
   var val = envArr[1].replace(/^['"]/, '').replace(/['"]$/, '')
 
   var envObj = {
